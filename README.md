@@ -46,23 +46,3 @@ I focus on building responsive systems, smooth UI, and efficient backend logic.
 
 ---
 
-## 📌 Projects
-
-* 🛒 Habibiy Store (Online Shopping System)
-* 📱 Perfume Store App (React Native + Firebase)
-* 📊 Attendance System (BLE-based)
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-
----
-
-## ✨ Motto
-
-> "Build simple. Design smart. Deliver value."
-
----
-
