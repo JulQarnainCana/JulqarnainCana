@@ -34,7 +34,5 @@ I focus on building responsive systems, smooth UI, and efficient backend logic.
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge\&logo=capcut\&logoColor=white)
-![Alight Motion](https://img.shields.io/badge/Alight_Motion-00AEEF?style=for-the-badge\&logo=alightmotion\&logoColor=white)
 
 ---
