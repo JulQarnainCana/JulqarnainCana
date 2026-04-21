@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-I am a Web Developer, UI/UX Designer, and aspiring Mobile App Developer who creates modern, clean, and user-friendly digital experiences.
-I focus on building responsive systems, smooth UI, and efficient backend logic.
+I’m passionate about web development and emerging technologies, focused on creating clean, efficient, and user-friendly web applications that provide seamless and engaging user experiences.
 
 ---
 
