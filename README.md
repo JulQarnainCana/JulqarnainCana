@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jul Dev
+# 👋 Hi, I'm Jul-Qarnain
 
 ## 🚀 About Me
 
