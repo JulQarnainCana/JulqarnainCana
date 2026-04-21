@@ -8,7 +8,7 @@ I’m passionate about web development and emerging technologies, focused on cre
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/cocsxyqt20/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/cocsxyqt20/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@koksiofficial?_r=1&_t=ZS-95iZTxCfMiy)
 ---
 
