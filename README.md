@@ -1,18 +1,18 @@
 # Hi, I'm Jul-Qarnain
 
-## About Me
+## ABOUT ME
 
-### I’m passionate about web development and emerging technologies, focused on creating clean, efficient, and user-friendly web applications that provide seamless and engaging user experiences.
+#### I’m passionate about web development and emerging technologies, focused on creating clean, efficient, and user-friendly web applications that provide seamless and engaging user experiences.
 
 ---
 
-## 🌐 Socials
+## 🌐 SOCIALS
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/cocsxyqt20/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@koksiofficial?_r=1&_t=ZS-95iZTxCfMiy)
 ---
 
-##  Tech Stack
+##  TECH STACK
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
