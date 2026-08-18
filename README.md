@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-#### I’m passionate about web development and emerging technologies, focused on creating clean, efficient, and user-friendly web applications that provide seamless and engaging user experiences.
+### I’m passionate about web development and emerging technologies, focused on creating clean, efficient, and user-friendly web applications that provide seamless and engaging user experiences.
 
 ---
 
